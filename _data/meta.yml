@@ -1,0 +1,39 @@
+# The meta data of site.
+# © 2017-2019 Cotes Chung
+# MIT License
+
+# Replace with your domain, e.g. "https://username.github.io"
+uri: "https://www.example.com"
+
+title: "Chirpy"
+
+subtitle: "A text-based Jekyll theme."
+
+profile:
+  img: "/assets/img/sample/profile.jpg"   # Support network resources.
+  name:  Chirpy                           # change to your full name
+  email: example@doamin.com               # change to your email address
+  github: github_username                 # change to your github username
+  twitter: twitter_username               # change to your twitter username
+
+# Change to your Google Analytics ID
+ga_id: "UA-*********-*"
+
+# Change to your Disqus shortname.
+disqus_shortname: "disqus"
+
+# The year your website was first run.
+first_run: 2019
+
+# boolean type, the gobal switch of posts' comments.
+comments: true
+
+# boolean type, gobal switch for ToC in posts.
+toc: true
+
+# Google Analytics pageviews and DO NOT enable it
+# unless you know how to deploy the Google Analytics superProxy.
+pv: false
+
+# Must be 'en' or 'zh'
+lang: en
