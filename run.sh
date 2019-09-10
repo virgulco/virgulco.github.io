@@ -55,7 +55,7 @@ check_unset() {
 }
 
 
-cmd="bundle exec jekyll s"
+cmd="bundle exec jekyll s --trace"
 
 while (( $# ))
 do

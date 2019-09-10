@@ -3,24 +3,24 @@
 # MIT License
 
 # Replace with your domain, e.g. "https://username.github.io"
-uri: "https://www.example.com"
+uri: "https://www.virgul.co"
 
-title: "Chirpy"
+title: "Virgul Co."
 
-subtitle: "A text-based Jekyll theme."
+subtitle: "Hepsi hallolur."
 
 profile:
-  img: "/assets/img/sample/profile.jpg"   # Support network resources.
-  name:  Chirpy                           # change to your full name
-  email: example@doamin.com               # change to your email address
-  github: github_username                 # change to your github username
-  twitter: twitter_username               # change to your twitter username
+  img: "/assets/img/sample/logo.jpg"   # Support network resources.
+  name:  Virgul                           # change to your full name
+  email: help@virgul.co               # change to your email address
+  github: virgulco                 # change to your github username
+  linkedin: mehmetburakibis               # change to your twitter username
 
 # Change to your Google Analytics ID
-ga_id: "UA-*********-*"
+ga_id: "UA-135969186-2"
 
 # Change to your Disqus shortname.
-disqus_shortname: "disqus"
+disqus_shortname: "virgulco"
 
 # The year your website was first run.
 first_run: 2019

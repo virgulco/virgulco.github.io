@@ -1,8 +1,8 @@
 ---
 layout: page
 title:
-  zh: 关于
-  en: About
+  eng: About
+  en: Hakkımda
 
 # The About page
 # © 2017-2019 Cotes Chung
