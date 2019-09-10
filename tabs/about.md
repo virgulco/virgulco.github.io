@@ -9,35 +9,23 @@ title:
 # MIT License
 ---
 
-**Chirpy** is an responsive web design Jekyll theme developed using Bootstrap 4, designed by [Cotes Chung](https://github.com/cotes2020).
+**Virgul.co** çoğunlukla haftalık olarak yazılım deneyimlerimi, projelerde karşılaştığım sorunlar ve çözümlerini paylaştığım bir blog.
+Aynı zamanda open source dünyasına ufak da olsa bir katkı. Her türlü soru, görüş, öneri, hatta 'şöyle bi fikrim var ama..' dediğin her şeyi
+hiç çekinmeden benimle paylaşabilirsin.
 
-## Features
-
-* Last modified date
-* Table of Contents
-* Disqus Comments
-* Syntax highlighting
-* Two Level Categories
-* Search
-* Support dual language (en-US & zh-CN)
-* HTML compress
-* Atom feeds
-* Google Analytics
-* Pageviews (Advanced)
+## Kişisel Bilgiler
+  PC Oyun alaylısı olarak 1998 yılında oyun cd'lerinden çıkan demoların 
 
 
-## Used by
+## İş Deneyimleri
 
-* [Cotes' Blog](https://blog.cotes.info)
 
-## Homepage
+## Projeler
 
-You can fork this project from the [Homepage](https://github.com/cotes2020/chirpy). Any issues and suggestions are welcome!
 
-## Usage
 
-Follow the [tutorial posts]({{ site.baseurl }}/categories/tutorial/), it will help you build a site quickly.
 
-## License
+**Virgul.co**: Ruby ile yazılmış bir blog framework'ü olan Jekyll ile geliştirilmiştir. Text bazlı olduğu için GitHub Pages üzerinden host edilir. 
+Nasıl kurulur, nasıl deploy edilir ve nasıl geliştirilir merak ediyorsan [Jekyll ile blog yapımı](https://virgul.co) sayfasını ziyaret edebilirsin.
 
-This project is published under the [MIT License](https://github.com/cotes2020/cotes-blog/blob/master/LICENSE).
+**badpanty.com**: Cryptocurrency ile alışverişi destekleyen C2C e-ticaret sitesi. Backend Django ile yapılmıştır. [BadPanty](https://www.badpanty.com)
