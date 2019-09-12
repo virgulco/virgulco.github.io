@@ -6,7 +6,7 @@ tabs:
   - { name: { en: "Anasayfa", eng: "Homepage" } }
   - { name: { en: "Kategoriler", eng: "Categories" }, path: tabs, url: categories }
   - { name: { en: "Tags", eng: "Tags" }, path: tabs, url: tags }
-  - { name: { en: "Arşiv", eng: "Archive" }, path: tabs, url: archives }
+  - { name: { en: "Timeline", eng: "Timeline" }, path: tabs, url: archives }
   - { name: { en: "Hakkımda", eng: "About Me" }, path: tabs, url: about }
 
 panel:
