@@ -3,18 +3,18 @@
 # MIT Licensed
 
 tabs:
-  - { name: { en: "Anasayfa", eng: "Homepage" } }
-  - { name: { en: "Kategoriler", eng: "Categories" }, path: tabs, url: categories }
-  - { name: { en: "Tags", eng: "Tags" }, path: tabs, url: tags }
-  - { name: { en: "Timeline", eng: "Timeline" }, path: tabs, url: archives }
-  - { name: { en: "Hakkımda", eng: "About Me" }, path: tabs, url: about }
+  - { name: { en: "Anasayfa", zh: "Homepage" } }
+  - { name: { en: "Kategoriler", zh: "Categories" }, path: tabs, url: categories }
+  - { name: { en: "Tags", zh: "Tags" }, path: tabs, url: tags }
+  - { name: { en: "Timeline", zh: "Archive" }, path: tabs, url: archives }
+  - { name: { en: "Hakkımda", zh: "About Me" }, path: tabs, url: about }
 
 panel:
   lastmod:
-    { en: "Son Gelişmeler", eng: "Last Updates" }
+    { en: "Son Gelişmeler", zh: "Last Updates" }
   tags:
-    { en: "Popüler Tag'ler", eng: "Trending Tags" }
+    { en: "Popüler Tag'ler", zh: "Trending Tags" }
   toc:
-    { en: "İçerikler", eng: "Contents" }
+    { en: "İçerikler", zh: "Contents" }
 
-search_hint: { en: "Arama", eng: "Search" } # text show on search bar
+search_hint: { en: "Arama", zh: "Search" } # text show on search bar

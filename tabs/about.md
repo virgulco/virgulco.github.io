@@ -1,7 +1,7 @@
 ---
 layout: page
 title:
-  eng: About
+  zh: About
   en: Hakkımda
 
 # The About page
