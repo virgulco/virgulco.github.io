@@ -13,16 +13,16 @@ title:
 Aynı zamanda open source dünyasına ufak da olsa bir katkı. Her türlü soru, görüş, öneri, hatta 'şöyle bi fikrim var ama..' dediğin her şeyi
 hiç çekinmeden benimle paylaşabilirsin.
 
+
 ## Kişisel Bilgiler
   Balıkesir'de doğdum. Çocukluğumdan yetişkinlik dönemime kadar hayvanlarla sokaklarda koşturarak büyüdüm. 
   Babamın 1998 yılında eve Escort marka bir bilgisayar almasıyla PC Oyun alaylısı olarak bilgisayar kullanmaya başladım.
   56K modem ile gazeteden çıkan ixir ve e-kolay cd'leriyle girdiğim ilk internet sitesi grafi2000 olmuştu. İnternetin bitebilen bir şey olduğunu
-  düşündüğümüz için fişini çekip flash oyunları offline oynayarak mahalledeki çocukların gözüne girdim.
+  farkettiğimizde fişini çekip flash oyunları offline oynayarak mahalledeki çocukların gözüne girdim.
 
-  2008 yılında liseye başladım. 2011 yılında İstanbul Üniversitesi İktisat Fakültesi'nde İktisat okumaya başladım. 2015 yılında mezun olup çalışma hayatıma
-  başladım. 4 yılımı gelecekte ne olacağıma karar vermek için harcadım. Bir yanda insanlar uzaya çıkarken Excel'di raporlama tool'larıydı derken iğneyle kuyu kazdığımı farkettim. Aylarca gündüz ofiste excel tabloları hazırlayıp gece Python koşturdum. Nihayetinde hayatım boyunca yapmak istediğim işi buldum. 
+  2008 yılında Muharrem Hasbi Koray Anadolu Lisesi'ne, 2011 yılında İstanbul Üniversitesi İktisat Fakültesi'ne başladım. İktisat bölümünü büyük bir hevesle bitirdim. 2015 yılında mezun olup çalışma hayatıma
+  başladım. 4 yılımı büyük sayılacak firmalarda gelecekte ne olacağıma karar vermek için harcadım. Bir yanda insanlar uzaya çıkarken ben Excel'di raporlama tool'larıydı derken iğneyle kuyu kazdığımı farkettim. Visual Basic ile makrolar yazdım, ama bunun çok daha ötesini farkettiğimde yanlış yerden başladığımı anladım. Aylarca gündüz ofiste excel makroları hazırlayıp gece Python koşturdum. Nihayetinde hayatım boyunca yapmak istediğim işi buldum. 
   İki şişko kedim, dört çiçeğim var. Analog fotoğrafın hastası, Contax'ın ustasıyım. 
-
 
 
 ## İş Deneyimleri
@@ -34,19 +34,18 @@ hiç çekinmeden benimle paylaşabilirsin.
 - 2019-.... - Artistanbul - Python Geliştirici
 
 
-
 ## Uzmanlıklar
-- Python based: Flask, Django & Rest, Framework
+- Python based: Flask, Django & Rest, Framework,
 - PHP based: CodeIgniter,
 - Javascript based: React.js, React Native,
 - DevOps: Vagrant, Docker, VirtualBox,
 - Database: SQLite3, PostgreSQL,
-- GitLab (+API), GitHub (+API), Redmine (+API), Sendgrid (+API), Slack (I ❤ Slack API), Asana, Miro
+- Development Tools: GitLab (+API), GitHub (+API), Redmine (+API), Sendgrid (+API), Slack (I ❤ Slack API), Asana, Miro
 
 
 ## Projeler
 - **Virgul.co**: Ruby ile yazılmış bir blog framework'ü olan Jekyll ile geliştirilmiştir. Text bazlı olduğu için GitHub Pages üzerinden host edilir. 
-Nasıl kurulur, nasıl deploy edilir ve nasıl geliştirilir merak ediyorsan [Jekyll ile blog yapımı](https://virgul.co) sayfasını ziyaret edebilirsin.
+Nasıl kurulur, nasıl deploy edilir ve nasıl geliştirilir merak ediyorsan [Jekyll Documantation](https://jekyllrb.com/) sayfasını ziyaret edebilirsin.
 
 - **Badpanty E-Commerce**: Cryptocurrency ile alışverişi destekleyen C2C e-ticaret sitesi. Backend Django, frontend React.js ile geliştirilmiştir. Geliştirme devam etmektedir. PostgrSQL veritabanı kullanır. Asenkron işlemler için Celery'den faydalanılmaktadır.
 

@@ -3,18 +3,18 @@
 # MIT Licensed
 
 tabs:
-  - { name: { en: "Anasayfa", zh: "Homepage" } }
-  - { name: { en: "Kategoriler", zh: "Categories" }, path: tabs, url: categories }
-  - { name: { en: "Tags", zh: "Tags" }, path: tabs, url: tags }
-  - { name: { en: "Timeline", zh: "Archive" }, path: tabs, url: archives }
-  - { name: { en: "Hakkımda", zh: "About Me" }, path: tabs, url: about }
+  - { name: { zh: "首 页", en: "Anasayfa" } }
+  - { name: { zh: "分 类", en: "Kategoriler" }, path: tabs, url: categories }
+  - { name: { zh: "标 签", en: "Tags" }, path: tabs, url: tags }
+  - { name: { zh: "归 档", en: "Timeline" }, path: tabs, url: archives }
+  - { name: { zh: "关 于", en: "Hakkımda" }, path: tabs, url: about }
 
 panel:
   lastmod:
-    { en: "Son Gelişmeler", zh: "Last Updates" }
+    { en: "Son Yazılar", zh: "最近更新" }
   tags:
-    { en: "Popüler Tag'ler", zh: "Trending Tags" }
+    { en: "Popüler Tag'ler", zh: "热门标签" }
   toc:
-    { en: "İçerikler", zh: "Contents" }
+    { en: "İçerik", zh: "目录" }
 
-search_hint: { en: "Arama", zh: "Search" } # text show on search bar
+search_hint: { en: "Arama", zh: "搜索" } # text show on search bar
