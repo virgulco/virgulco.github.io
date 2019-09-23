@@ -31,7 +31,7 @@ hiç çekinmeden benimle paylaşabilirsin.
 - 2015-2016 - Zorlu Holding - Bütçe Raporlama Uzmanı
 - 2016-2018 - Reeder Tech - İş Analisti
 - 2018-2019 - Sabancı Holding - İş Analisti
-- 2019-.... - Artistanbul - Python Geliştirici
+- 2019-...... - Artistanbul - Python Geliştirici
 
 
 ## Uzmanlıklar
