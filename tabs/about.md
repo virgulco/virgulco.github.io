@@ -15,13 +15,11 @@ hiç çekinmeden benimle paylaşabilirsin.
 
 
 ## Kişisel Bilgiler
-  Balıkesir'de doğdum. Çocukluğumdan yetişkinlik dönemime kadar hayvanlarla sokaklarda koşturarak büyüdüm. 
-  Babamın 1998 yılında eve Escort marka bir bilgisayar almasıyla PC Oyun alaylısı olarak bilgisayar kullanmaya başladım.
-  56K modem ile gazeteden çıkan ixir ve e-kolay cd'leriyle girdiğim ilk internet sitesi grafi2000 olmuştu. İnternetin bitebilen bir şey olduğunu
-  farkettiğimizde fişini çekip flash oyunları offline oynayarak mahalledeki çocukların gözüne girdim.
+  Balıkesir'de doğdum. Babamın 1998 yılında eve Escort marka bir bilgisayar almasıyla PC Oyun alaylısı olarak bilgisayar kullanmaya başladım.
+  56K modem ile gazeteden çıkan ixir ve e-kolay cd'leriyle girdiğim ilk internet sitesi grafi2000 olmuştu. İnternetin bitebilen bir şey olduğunu farkettiğimizde fişini çekip flash oyunları Internet Explorer'ın Çevrimdışı modunda oynayarak mahalledeki çocukların gözüne girdim.
 
   2008 yılında Muharrem Hasbi Koray Anadolu Lisesi'ne, 2011 yılında İstanbul Üniversitesi İktisat Fakültesi'ne başladım. İktisat bölümünü büyük bir hevesle bitirdim. 2015 yılında mezun olup çalışma hayatıma
-  başladım. 4 yılımı büyük sayılacak firmalarda gelecekte ne olacağıma karar vermek için harcadım. Bir yanda insanlar uzaya çıkarken ben Excel'di raporlama tool'larıydı derken iğneyle kuyu kazdığımı farkettim. Visual Basic ile makrolar yazdım, ama bunun çok daha ötesini farkettiğimde yanlış yerden başladığımı anladım. Aylarca gündüz ofiste excel makroları hazırlayıp gece Python koşturdum. Nihayetinde hayatım boyunca yapmak istediğim işi buldum. 
+  başladım. 4 yılımı büyük sayılacak firmalarda gelecekte ne olacağıma karar vermek için harcadım. Bir yanda insanlar uzaya çıkarken ben Excel'di raporlama tool'larıydı derken iğneyle kuyu kazdığımı farkettim. Visual Basic ile makrolar yazdım, ama bunun çok daha ötesini farkettiğimde yanlış yerden başladığımı anladım. Aylarca gündüz ofiste Excel makroları hazırlayıp gece Python koşturdum. Nihayetinde hayatım boyunca yapmak istediğim işi buldum. 
   İki şişko kedim, dört çiçeğim var. Analog fotoğrafın hastası, Contax'ın ustasıyım. 
 
 
@@ -35,12 +33,12 @@ hiç çekinmeden benimle paylaşabilirsin.
 
 
 ## Uzmanlıklar
-- Python based: Flask, Django & Rest, Framework,
+- Python based: Flask, Django & Rest,
 - PHP based: CodeIgniter,
 - Javascript based: React.js, React Native,
-- DevOps: Vagrant, Docker, VirtualBox,
-- Database: SQLite3, PostgreSQL,
-- Development Tools: GitLab (+API), GitHub (+API), Redmine (+API), Sendgrid (+API), Slack (I ❤ Slack API), Asana, Miro
+- DevOps: Vagrant, Docker,
+- Database: SQLite3, PostgreSQL, MySQL,
+- Development Tools: GitLab (+API), GitHub (+API), Redmine (+API), Sendgrid (+API), Slack (I ❤ Slack API)
 
 
 ## Projeler
@@ -52,11 +50,10 @@ Nasıl kurulur, nasıl deploy edilir ve nasıl geliştirilir merak ediyorsan [Je
 - **Gratis Kariyer**: Gratis'in Kurumsal ve kariyer web sitesidir. İş başvuruları, çalışan röportajları, şirket hakkında bilgiler içerir. 
 Wordpress ile geliştirilmiştir. [Gratis Kariyer](https://www.gratis.com/kariyer)
 
-- **Mobil Haber**: Son dakika haberlerinin paylaşıldığı mobil haber uygulamasıdır. Frontend'de iOS ve Android için hibrit çözüm sunan React Native + Redux,
-backend'de ise PHP ile geliştirilmiştir. Geliştirme devam etmektedir.
+- **Mobil Haber**: Son dakika haberlerinin paylaşıldığı mobil haber uygulamasıdır. Frontend'de iOS ve Android için hibrit çözüm sunan React Native + Redux, backend'de ise PHP ile geliştirilmiştir. Pek yakında Apple ve Android Market'te yayınlanacak.
 
-- **Pismilla Slack APP**: Slack API ile Python diliyle geliştirilmiş asenkron olarak çalışan bir Slack botu. Bulunduğu kanalı dinler, komut verildiğinde
+- **Pismilla Slack App**: Slack API ile Python diliyle geliştirilmiş asenkron olarak çalışan bir Slack botu. Bulunduğu kanalı dinler, komut verildiğinde
 harekete geçer. Ofis içindeki işlerin rastgele delege edilmesi için yazıldı. "Kim kahve yapsın?", "Kim markete gitsin?" gibi sorulara kanal içinden rastgele
 bir kişiyi seçerek yanıt verir. API'lerin çalışma mantığını Bilal'e anlatır gibi anlattığım blog yazım için şurayı [şurayı](https://virgul.co/posts/api/) ziyaret edebilirsin.
 
-- **Reminder Birey Redmine APP**: Redmine API ile Python dilinde geliştirilmiş Slack üzerinde çalışan bir reminder uygulaması. Yazılım şirketinde işleri yoluna koymak çok kolay bir şey değil. Takip edilecek çok fazla şey var. Geliştirme kodu yazıp editörü kapatınca bitmiyor. Conflict'ler, teste almak, canlıya taşımak derken işler uzuyor. Reminder Birey her sabah saat 10'da cronjob ile çalışarak bize GitLab'da bekleyen tüm merge request'leri kimde beklediği ve ne zamandır beklediği detayıyla raporluyor. 
+- **Reminder Redmine App**: Redmine API ile Python dilinde geliştirilmiş Slack üzerinde çalışan bir reminder uygulaması. Yazılım şirketinde işleri yoluna koymak çok kolay bir şey değil. Takip edilecek çok fazla şey var. Geliştirme kodu yazıp editörü kapatınca bitmiyor. Conflict'ler, teste almak, canlıya taşımak derken işler uzuyor. Reminder Birey her sabah saat 10'da cronjob ile çalışarak bize GitLab'da bekleyen tüm merge request'leri kimde beklediği ve ne zamandır beklediği detayıyla raporluyor. 
