@@ -1,6 +1,6 @@
 ---
 title: "Docker Compose İle Multi-Container Yapısı"
-date: 2019-10-04 18:21:00 +0800
+date: 2019-10-04 18:21:00 +0300
 categories: [DevOps, Docker]
 tags: [vagrant, docker, devops]
 ---
