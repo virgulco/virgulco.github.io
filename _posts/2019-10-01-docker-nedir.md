@@ -1,8 +1,10 @@
 ---
-title: "Docker Nedir?"
+title: Docker Nedir?
 date: 2019-10-01 18:21:00 +0300
 categories: [DevOps, Docker]
 tags: [docker-compose, docker, devops]
+seo:
+  date_modified: 2019-10-06 05:59:28 +0300
 ---
 
 
