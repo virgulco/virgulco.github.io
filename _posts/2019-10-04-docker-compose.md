@@ -4,7 +4,7 @@ date: 2019-10-04 18:21:00 +0300
 categories: [DevOps, Docker]
 tags: [vagrant, docker, devops]
 seo:
-  date_modified: 2019-10-06 05:59:28 +0300
+  date_modified: 2019-10-05 05:59:28 +0300
 ---
 
 ![Docker]({{ site.baseurl }}/assets/img/posts/docker-compose.png)
