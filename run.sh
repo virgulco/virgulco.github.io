@@ -32,7 +32,7 @@ init() {
     rm -rf .container
   fi
 
-  temp=$(mktemp -q -d -t "$(basename "$0").XXXXXX")
+  temp=$(mktemp -d)
   cp -r * $temp
   cp -r .git $temp
   mv $temp .container
