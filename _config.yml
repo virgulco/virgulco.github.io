@@ -31,7 +31,7 @@ social:
   email: burak@virgul.co             # change to your email address
   links:
     - https://twitter.com/brkibis      # change to your twitter homepage
-    - https://github.com/burakibis       # change to your github homepage
+    - https://github.com/mindlabcore       # change to your github homepage
     # - https://www.facebook.com/username
     - https://www.linkedin.com/in/mehmet-burak-ibis
 
@@ -44,7 +44,7 @@ timezone: Europe/Istanbul
 
 google_analytics:
   # Change to your Google Analytics ID
-  id: 'UA-135969186-2'
+  id: 'UA-151551187-1'
   # The Google Analytics pageviews switch.
   # DO NOT enable it unless you know how to deploy the Google Analytics superProxy.
   pv: false
