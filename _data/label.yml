@@ -3,15 +3,15 @@
 # MIT Licensed
 
 tabs:
-  - { name: "Anasayfa" }
-  - { name: "Kategoriler", path: tabs, url: categories }
+  - { name: "Homepage" }
+  - { name: "Categories", path: tabs, url: categories }
   - { name: "Tags", path: tabs, url: tags }
   - { name: "Timeline", path: tabs, url: archives }
-  - { name: "Hakkımda", path: tabs, url: about }
+  - { name: "About Me", path: tabs, url: about }
 
 panel:
-  lastmod: "Son Yazılar"
+  lastmod: "Last Posts"
   trending_tags: "Trending Tags"
-  toc: "İçerik"
+  toc: "Content"
 
-search_hint: "Arama"   # text show on search bar
+search_hint: "Search"   # text show on search bar
