@@ -13,7 +13,7 @@ seo:
 
 
 # Write Your First Arduino Project
-Hello everyone! My company is based of software development but also our another team is education based. We are giving robotic coding education to elementary/highscools. We have a website that has a lot of lessons about robotics  and 3D printers. We are redesigning this site and I am part of this. When I looking to site I wondered how these boards working, what kind of things can making with that. I searched on Google, I was little bit confused so finally I got all of ingredients from our office and start this post. Let's make 'a homemade light switch' together and see how do it works.
+Hello everyone! My company is based of software development but also our another team is education based. We are giving robotic coding education to elementary/highschools. We have a website (<a href="https://mucitiz.biz" target="_blank">https://mucitiz.biz</a>) that has a lot of lessons about robotics  and 3D printers. We are redesigning this site and I am part of this. When I looking to site I wondered how these boards working, what kind of things can making with that. I searched on Google, I was little bit confused so finally I got all of ingredients from our office and start this post. Let's make 'a homemade light switch' together and see how do it works.
 I will use Fedora but you can use any Linux distros, Windows or MacOs.
 
 ## Ingredients For Your Homemade Light Switch
@@ -30,9 +30,9 @@ I will use Fedora but you can use any Linux distros, Windows or MacOs.
 ------------
 ## Let's Start
 
-- Install Arduino IDE from https://www.arduino.cc/en/main/software, select your OS, download file and setup or install from command line `sudo dnf install arduino`
+- Install Arduino IDE from <a href="https://www.arduino.cc/en/main/software" target="_blank">https://www.arduino.cc/en/main/software</a>, select your OS, download file and setup or install from command line `sudo dnf install arduino`
 
--  Install openJDK from https://jdk.java.net/13/ or from command line: `sudo dnf install java-11-openjdk.x86_64` (for detecting your Arduino Card).
+-  Install openJDK from <a href="https://jdk.java.net/13/" target="_blank">https://jdk.java.net/13/</a> or from command line: `sudo dnf install java-11-openjdk.x86_64` (for detecting your Arduino Card).
 
 - Plug the board to your computer with USB TTL serial cable (USB-A to USB-B).
 - Let's check our device that connect to our PC correctly:
@@ -86,17 +86,17 @@ npm install
 - Some of dependecies were changed and won't work correctly, so you can get a error like these:
 
 ```bash
-home/burak/Arduino/projects/arduino-smartLED/node_modules/pageserver/lib/pageserver.js:97
+home/burak/Arduino/projects/hello-little-arduino/node_modules/pageserver/lib/pageserver.js:97
                     var type = mime.lookup(filepath);
                                     ^
 
 TypeError: mime.lookup is not a function
-    at /home/burak/Arduino/projects/arduino-smartLED/node_modules/pageserver/lib/pageserver.js:97:37
+    at /home/burak/Arduino/projects/hello-little-arduino/node_modules/pageserver/lib/pageserver.js:97:37
     at suppressedCallback (fs.js:199:5)
     at FSReqWrap.args [as oncomplete] (fs.js:140:20)
 ```
 
-Don't worry!. We just fix a file on `YOUR_PATH/arduino-smartLED/node_modules/pageserver/lib/pageserver.js:97`
+Don't worry!. We just fix a file on `YOUR_PATH/hello-little-arduino/node_modules/pageserver/lib/pageserver.js:97`
 In the new version of `mime` renamed some methods so we should go to file and change this line 
 `var type = mime.lookup(filepath);` to `var type = mime.getType(filepath);`
 Save and close this file.
