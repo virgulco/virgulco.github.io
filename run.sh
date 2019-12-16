@@ -50,7 +50,7 @@ check_unset() {
 }
 
 
-cmd="bundle exec jekyll s"
+cmd="bundle exec jekyll s --incremental"
 
 while (( $# ))
 do

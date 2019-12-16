@@ -70,6 +70,7 @@ DEPENDENCIES
   jekyll-paginate
   jekyll-redirect-from
   jekyll-seo-tag
+  listen (~> 3)
   tzinfo-data
 
 BUNDLED WITH
