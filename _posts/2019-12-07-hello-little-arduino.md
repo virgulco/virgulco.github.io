@@ -17,7 +17,7 @@ Hello everyone! My company is based of software development but also our another
 I will use Fedora but you can use any Linux distros, Windows or MacOs.
 
 ## Ingredients For Your Homemade Light Switch
-1. Arduino UNO with USB port
+1. Arduino UNO with USB port (You can buy on this site: <a href="https://www.direnc.net/arduino-uno-r3-smd" target="_blank">Direnc.net</a>)
 2. Arduino IDE
 3. OpenJDK
 4. Git (It's not neccessary)
