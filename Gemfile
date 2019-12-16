@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'jekyll', '>=3.8.6'
+gem 'listen', '~> 3' # prevent 2.8 and greater from being used
 
 # Official Plugins
 group :jekyll_plugins do
